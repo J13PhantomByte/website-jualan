@@ -5,5 +5,7 @@ jangan lupa beli cuy, hehe
 # Screenshot
 Project screenshot here :
 
-![screenshot](https://github.com/Jooselleebew/text-animasi/blob/juan/videos.mp4)
+![screenshot](https://github.com/J13PhantomByte/website-jualan/blob/juan/web.png)
+
+![screenshot](https://github.com/J13PhantomByte/website-jualan/blob/juan/mobile.png)
 
